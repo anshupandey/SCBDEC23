@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/labadmin/Desktop/SCBDEC23/mlruns/0/6a5ee5fe9c0f4623a7ffde6a42b81a32/artifacts
+end_time: 1703058496565
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6a5ee5fe9c0f4623a7ffde6a42b81a32
+run_name: nervous-stoat-256
+run_uuid: 6a5ee5fe9c0f4623a7ffde6a42b81a32
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1703058478967
+status: 3
+tags: []
+user_id: labadmin
